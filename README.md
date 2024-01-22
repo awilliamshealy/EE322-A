@@ -6,7 +6,8 @@ repository for engineering design vi
 
 **this text is BOLD**
 *this one is crooked*
-> gronk
+~~this has a line through it~~
+> gronk 🚰
 
 1. one
 2. two
@@ -15,6 +16,10 @@ repository for engineering design vi
 - 1
 - 2
 - 3
+
+- [x] task 1
+- [ ] task 2
+- [ ] task 3
 
 'print("hello world")'
 

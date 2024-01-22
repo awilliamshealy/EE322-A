@@ -16,7 +16,7 @@ repository for engineering design vi
 - 2
 - 3
 
-'print["hello world"]'
+'print("hello world")'
 
 ---
 

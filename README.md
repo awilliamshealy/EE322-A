@@ -16,10 +16,10 @@ repository for engineering design vi
 - 2
 - 3
 
-'code'
+'print["hello world"]'
 
 ---
 
 [my linkedin](https://www.linkedin.com/in/aidan-williams-healy/)
 
-
+![picture 1](glassFrog.jpg)

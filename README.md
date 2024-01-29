@@ -1,6 +1,6 @@
 # EE322-A
-Repository for Engineering Design VI
-**Spring 2024**
+Repository for Engineering Design VI; 
+**Spring 2024; **
 **Dr.Kevin Lu**
 
 ## About This Course
@@ -39,6 +39,7 @@ Repository for Engineering Design VI
 - Country Music
 
 ### A Picture of me and My Band
+![dale](dale.jpg)
 
 ### A Fun Picture of my Favorite Animal
-![picture 1](glassFrog.jpg)
+![forg](glassFrog.jpg)

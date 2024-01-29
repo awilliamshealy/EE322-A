@@ -1,30 +1,44 @@
 # EE322-A
-repository for engineering design vi
+Repository for Engineering Design VI
+**Spring 2024**
+**Dr.Kevin Lu**
 
-## This is a second heading
-### Look a third!
+## About This Course
+*This course introduces students to critical engineering design topics such as needs assessment, problem formulation, modeling, patents, abstraction and synthesis, economic analysis, product liability, ergonomics, engineering ethics, hazards analysis, design for X, material selection, and manufacturing processes. Students learn that engineering is a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem-solving.*
 
-**this text is BOLD**
-*this one is crooked*
-~~this has a line through it~~
-> gronk 🚰
+### Program Outcomes
+1. Complex Problem Solving
+2. Design
+3. Communications
+4. Ethical and Professional Conduct
+5. Teaming and Leadership
+6. Ability to Learn
 
-1. one
-2. two
-3. three
+### Projects Completed
+- [x] ~~Assignment 0~~
+- [ ] Assignment 1
+- [ ] Assignment 2
 
-- 1
-- 2
-- 3
-
-- [x] task 1
-- [ ] task 2
-- [ ] task 3
-
-'print("hello world")'
-
----
+### A Simple "Hello Word" Example
+`print("hello world")`
 
 [my linkedin](https://www.linkedin.com/in/aidan-williams-healy/)
 
+---
+## About Me
+> "The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars" - Jack Kerouac
+
+### My Favorite Things
+- Playing Guitar
+- Rock Climbing
+- Crocheting
+
+### My Least Favorite Things
+- Jello
+- Slow Walkers
+- Country Music
+
+### A Picture of me and My Band
+
+### A Fun Picture of my Favorite Animal
 ![picture 1](glassFrog.jpg)

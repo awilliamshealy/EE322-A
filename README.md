@@ -18,13 +18,17 @@ Repository for Engineering Design VI
 
 ### Projects Completed
 - [x] ~~Assignment 0~~
-- [ ] Assignment 1
-- [ ] Assignment 2
+- [x] ~~Assignment 1~~
+- [x] ~~Assignment 2~~
+- [ ] Assignment 3
+- [ ] Assignment 4
+- [ ] Assignment 5
+- [ ] Assignment 6
 
-### A Simple "Hello Word" Example
+### A Simple "Hello World" Example
 `print("hello world")`
 
-[my linkedin](https://www.linkedin.com/in/aidan-williams-healy/)
+[my Linkedin](https://www.linkedin.com/in/aidan-williams-healy/)
 
 ---
 ## About Me

@@ -10,4 +10,6 @@
   - Document the results on your GitHub repository
  
 ## Exectution
-![code_1](```)
+![code_1](lab1_1.png)
+![out_1](lab1_2.png)
+![out_2](lab1_3.png)
